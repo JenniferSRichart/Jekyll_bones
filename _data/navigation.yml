@@ -1,6 +1,12 @@
 # Site navigation links
 
-- title:
-  url:
-  excerpt:
-  image:
+- title: Github
+  url: https://github.com/JenniferSRichart
+  #excerpt:
+  #image:
+
+- title: About Je!
+  url: /about?
+
+- title: Portfolio
+  url: /portfolio/
